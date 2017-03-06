@@ -1,4 +1,4 @@
-# Ionic 2YouTube Miniseries: My Places
+# Ionic 2 YouTube Miniseries: My Places
 This repository holds the source code for my Ionic 2 miniseries on YouTube.
 
 By running `npm install` and `ionic serve` you should be able to see the working application in your browser.
